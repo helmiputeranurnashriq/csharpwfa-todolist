@@ -17,3 +17,6 @@ For this personal project, I added another 3 new features to improve user experi
 
 The outcome that I have learned by developing this app is to understand the concept of input stores in the system and display the output according to its data type.
 Thank you for the ChatGPT where I used it as part of my learning process in getting detail explainations of C# concepts.
+
+![App UI Build](https://github.com/helmiputeranurnashriq/csharpwfa-todolist/blob/main/App%20UI%20dev%20mode.PNG "App UI Build")
+![App Process](https://github.com/helmiputeranurnashriq/csharpwfa-todolist/blob/main/App%20UI%20debug%20mode.PNG "App Process")
